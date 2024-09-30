@@ -1,1 +1,4 @@
-/node_modules
+**/**/run
+**/**/run.sh
+**/**/node_modules
+**/**/*-main.js
